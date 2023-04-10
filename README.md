@@ -2,7 +2,8 @@
 Hallucinated-PQA##
 The code is coming soon!
 We also uploaded the details of the k-fold prediction of the IRPC and M-PCCD dataset.
-![M-PCCD](https://user-images.githubusercontent.com/91246967/230884159-4febf46a-5874-4299-8cb0-ef50d8523198.png)
+![M-PCCD IRPC](https://user-images.githubusercontent.com/91246967/230885100-bc7b2b03-cf83-4d3b-807a-fcdc3950f820.png)
+
 
 
 
