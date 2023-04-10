@@ -1,10 +1,10 @@
 # Hallucinated-PQA
 Hallucinated-PQA##
 The code is coming soon!
-We also uploaded the details of the k-fold predictions of Hallucinated-PQA in the IRPC(54) and M-PCCD(232) databases.
+We also uploaded the k-fold predictions of Hallucinated-PQA in the IRPC(54) and M-PCCD(232) databases.
 
 
-![M-PCCD IRPC](https://user-images.githubusercontent.com/91246967/230885100-bc7b2b03-cf83-4d3b-807a-fcdc3950f820.png)
+![Prediction](https://user-images.githubusercontent.com/91246967/230887584-b6b37656-0e46-4b91-a05a-0a940add6808.png)
 
 
 
