@@ -1,6 +1,9 @@
 # Hallucinated-PQA
 Hallucinated-PQA##
 The code is coming soon!
+![image](https://user-images.githubusercontent.com/91246967/233386356-3a6ccb27-8d96-439f-b585-68e08446f797.png)
+
+
 We also uploaded the k-fold predictions of Hallucinated-PQA in the  WPC(740) , SJTU-PCQA(378),IRPC(54),and M-PCCD(232) databases.
 
 
